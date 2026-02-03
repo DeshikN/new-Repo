@@ -1,4 +1,0 @@
-- run:
-    name: Install dependencies
-    command: npm install
-
